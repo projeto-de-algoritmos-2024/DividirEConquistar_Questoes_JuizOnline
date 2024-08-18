@@ -23,7 +23,7 @@ complexidade com ênfase nos conteúdos vistos no módulo de Dividir e Conquista
 #### Exercício 01 - Number of Ways to Reorder Array to Get Same BST
 
 Dificuldade: Difícil <br>
-Descrição do Problema:[1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/) <br>
+Descrição do Problema: [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/) <br>
 Solução Proposta: 
 
 ![]()
