@@ -20,18 +20,18 @@ complexidade com ênfase nos conteúdos vistos no módulo de Dividir e Conquista
 
 ## Screenshots
 
-#### Exercício 01 - 
+#### Exercício 01 - Number of Ways to Reorder Array to Get Same BST
 
-Dificuldade:  <br>
-Descrição do Problema: <br>
+Dificuldade: Difícil <br>
+Descrição do Problema:[1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/) <br>
 Solução Proposta: 
 
 ![]()
 
-#### Exercício 02 -
+#### Exercício 02 - Maximum Binary Tree
 
-Dificuldade:  <br>
-Descrição do Problema: <br>
+Dificuldade: Média  <br>
+Descrição do Problema: [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) <br>
 Solução Proposta: 
 
 ![]()
