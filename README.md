@@ -36,18 +36,18 @@ Solução Proposta:
 
 ![]()
 
-#### Exercício 03 - X
+#### Exercício 03 - Median of Two Sorted Arrays
 
-Dificuldade: <br>
-Descrição do Problema: <br>
+Dificuldade: Difícil<br>
+Descrição do Problema: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)<br>
 Solução Proposta: 
 
 ![]()
 
 #### Exercício 04 -
 
-Dificuldade:  <br>
-Descrição do Problema: <br>
+Dificuldade: Média <br>
+Descrição do Problema: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)<br>
 Solução Proposta: 
 
 ![]()
