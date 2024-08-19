@@ -82,6 +82,31 @@ Certifique-se de estar no diretório correto em seu terminal para executar o pro
 6. Opcional: Deixamos arquivos de entrada para casos de teste (por exemplo, in.txt). Assim, você pode redirecionar a entrada para o programa durante a execução. Por exemplo:
 ```./<nome-do-executavel> < <nome-do-arquivo-de-input>.txt```
 
+### Executar os exercícios em python
+
+Para executar o notebook localmente, siga os passos abaixo:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/usuario/repositorio.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd repositorio
+   ```
+3. Certifique-se de ter o python 3 instalado.
+
+4. Execute o exercício 3:
+
+    ```bash
+    python3 Maximum_Subarray/maximum_subarray.py
+   ```
+5. Execute o exercício 4:
+    ```bash
+    python3 Median_of_Two_Sorted_Arrays/median_of_two_sorted_arrays.py 
+   ```
+
+
 <!--## Outros
 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.

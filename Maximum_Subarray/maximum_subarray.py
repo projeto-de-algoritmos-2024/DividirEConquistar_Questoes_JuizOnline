@@ -29,3 +29,9 @@ class Solution:
                        maxCrossingSum(nums, left, mid, right))
 
         return maxSubArrayHelper(nums, 0, len(nums) - 1)
+
+# Exemplo de uso:
+sol = Solution()
+print(sol.maxSubArray([-2,1,-3,4,-1,2,1,-5,4]))  # Saída: 6
+print(sol.maxSubArray([1]))  # Saída: 1
+print(sol.maxSubArray([5,4,-1,7,8]))  # Saída: 23
