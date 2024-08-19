@@ -42,7 +42,7 @@ Dificuldade: Difícil<br>
 Descrição do Problema: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)<br>
 Solução Proposta: 
 
-![]()
+![Exercício 3](assets/exercicio3.png)
 
 #### Exercício 04 - 53.Maximum Subarray
 
