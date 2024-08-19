@@ -18,6 +18,15 @@ A apresentação pode ser vista no YouTube por meio do link:
 Este projeto consiste na realização de exercícios de plataformas de juízes eletrônicos. Serão desenvolvidos problemas de média e alta
 complexidade com ênfase nos conteúdos vistos no módulo de Dividir e Conquistar. 
 
+## Questões
+
+| Nome                                                                                                                                        | Nível   |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)                                                 | Difícil |
+| [4.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)     | Difícil   |
+| [53.Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)     | Médio   |
+
+
 ## Screenshots
 
 #### Exercício 01 - Number of Ways to Reorder Array to Get Same BST
@@ -28,27 +37,19 @@ Solução Proposta:  [Código de Solução](https://github.com/projeto-de-algori
 
 ![Exercicio 1](assets/exercicio_1.png)
 
-#### Exercício 02 - Maximum Binary Tree
-
-Dificuldade: Média  <br>
-Descrição do Problema: [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) <br>
-Solução Proposta: 
-
-![]()
-
-#### Exercício 03 - 4.Median of Two Sorted Arrays
+#### Exercício 02 - 4.Median of Two Sorted Arrays
 
 Dificuldade: Difícil<br>
 Descrição do Problema: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)<br>
-Solução Proposta: 
+Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/DividirEConquistar_Questoes_JuizOnline/blob/master/Median_of_Two_Sorted_Arrays/median_of_two_sorted_arrays.py)
 
 ![Exercício 3](assets/exercicio3.png)
 
-#### Exercício 04 - 53.Maximum Subarray
+#### Exercício 03 - 53.Maximum Subarray
 
 Dificuldade: Média <br>
 Descrição do Problema: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)<br>
-Solução Proposta: 
+Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/DividirEConquistar_Questoes_JuizOnline/blob/master/Maximum_Subarray/maximum_subarray.py)
 
 ![Exercicio 4](assets/exercicio_4.png)
 
