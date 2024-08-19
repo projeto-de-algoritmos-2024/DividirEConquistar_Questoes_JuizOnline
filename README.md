@@ -24,9 +24,9 @@ complexidade com ênfase nos conteúdos vistos no módulo de Dividir e Conquista
 
 Dificuldade: Difícil <br>
 Descrição do Problema: [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/) <br>
-Solução Proposta: 
+Solução Proposta:  [Código de Solução](https://github.com/projeto-de-algoritmos-2024/DividirEConquistar_Questoes_JuizOnline/blob/master/Number_Ways_Reorder_BST/reorder_same_bst.cpp)
 
-![]()
+![Exercicio 1](assets/exercicio_1.png)
 
 #### Exercício 02 - Maximum Binary Tree
 
