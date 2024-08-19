@@ -35,3 +35,7 @@ class Solution:
         else:
             return (findKthElement(nums1, nums2, total_len // 2 - 1) + findKthElement(nums1, nums2, total_len // 2)) / 2.0
 
+# Exemplo de uso:
+sol = Solution()
+print(sol.findMedianSortedArrays([1, 3], [2]))  # Saída: 2.0
+print(sol.findMedianSortedArrays([1, 2], [3, 4]))  # Saída: 2.5
