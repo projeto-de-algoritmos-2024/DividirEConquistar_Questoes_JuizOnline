@@ -36,7 +36,7 @@ Solução Proposta:
 
 ![]()
 
-#### Exercício 03 - Median of Two Sorted Arrays
+#### Exercício 03 - 4.Median of Two Sorted Arrays
 
 Dificuldade: Difícil<br>
 Descrição do Problema: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)<br>
@@ -44,13 +44,13 @@ Solução Proposta:
 
 ![]()
 
-#### Exercício 04 -
+#### Exercício 04 - 53.Maximum Subarray
 
 Dificuldade: Média <br>
 Descrição do Problema: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)<br>
 Solução Proposta: 
 
-![]()
+![Exercicio 4](assets/exercicio_4.png)
 
 ## Instalação
 
